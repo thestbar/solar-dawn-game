@@ -47,3 +47,4 @@ More pictures of the game below:
 ### Settings Panel
 <img width="480" alt="sd_settings" src="https://user-images.githubusercontent.com/20283468/195959417-137d14ce-8486-45b8-a106-ec8bf426c654.png">
 
+Link to Diploma Thesis: https://nemertes.library.upatras.gr/items/7149f561-aea6-4c68-8d7f-69aae53fb1ac
